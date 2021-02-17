@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  width: 1400px;
+  margin: auto;
+}
+
+.app-header {
+  font-size: 80px;
+  pointer-events: none;
+  text-transform: uppercase;
+  color: #040707;
+  font-weight: 700;
+  font-style: italic;
+  letter-spacing: -5px;
+  margin: 60px 0;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+
+}
